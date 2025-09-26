@@ -23,13 +23,19 @@ A. Regular User
 > -Be able to reserve books for in-person reading/loaning in a separate
 > window
 
-B. Administrative User
+B. Admin
 
 > \-Must be able to login to a dashboard that can manage users and keep
 > track of their activity, history, and fees within the system
 >
 > -Must be able to view a list of all registered users and their roles
 > in the web app
+
+C. Librarians
+
+> \-Should manage the library directory and approve or deny book loans.
+>
+> - Update the book information to the system.
 
 **3. System Requirements**
 
